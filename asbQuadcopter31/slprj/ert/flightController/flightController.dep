@@ -1,0 +1,12 @@
+flightController.o flightController.o: flightController.c \
+ flightController.h \
+ E:/profiles/users/sasson/Desktop/shir/asbQuadcopter31/slprj/ert/_sharedutils/rtwtypes.h \
+ flightController_types.h flightController_private.h
+
+flightController.h:
+
+E:/profiles/users/sasson/Desktop/shir/asbQuadcopter31/slprj/ert/_sharedutils/rtwtypes.h:
+
+flightController_types.h:
+
+flightController_private.h:
